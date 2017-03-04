@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AA944E68-AD59-625C-BC8C-305FB162228D}") = "max can fly", "Assembly-CSharp.csproj", "{D00B188F-A6A4-4CB7-CC0D-530C7FE2DC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00B188F-A6A4-4CB7-CC0D-530C7FE2DC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00B188F-A6A4-4CB7-CC0D-530C7FE2DC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00B188F-A6A4-4CB7-CC0D-530C7FE2DC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00B188F-A6A4-4CB7-CC0D-530C7FE2DC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
